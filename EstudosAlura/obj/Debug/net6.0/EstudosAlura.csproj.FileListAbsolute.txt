@@ -13,3 +13,17 @@ C:\Users\lucas\source\repos\EstudosAlura\EstudosAlura\obj\Debug\net6.0\refint\Es
 C:\Users\lucas\source\repos\EstudosAlura\EstudosAlura\obj\Debug\net6.0\EstudosAlura.pdb
 C:\Users\lucas\source\repos\EstudosAlura\EstudosAlura\obj\Debug\net6.0\EstudosAlura.genruntimeconfig.cache
 C:\Users\lucas\source\repos\EstudosAlura\EstudosAlura\obj\Debug\net6.0\ref\EstudosAlura.dll
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\bin\Debug\net6.0\EstudosAlura.exe
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\bin\Debug\net6.0\EstudosAlura.deps.json
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\bin\Debug\net6.0\EstudosAlura.runtimeconfig.json
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\bin\Debug\net6.0\EstudosAlura.dll
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\bin\Debug\net6.0\EstudosAlura.pdb
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\EstudosAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\EstudosAlura.AssemblyInfoInputs.cache
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\EstudosAlura.AssemblyInfo.cs
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\EstudosAlura.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\EstudosAlura.dll
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\refint\EstudosAlura.dll
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\EstudosAlura.pdb
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\EstudosAlura.genruntimeconfig.cache
+C:\Users\rebec\Source\Repos\SoundScreen\EstudosAlura\obj\Debug\net6.0\ref\EstudosAlura.dll
